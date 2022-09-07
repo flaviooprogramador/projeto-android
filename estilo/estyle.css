@@ -52,7 +52,7 @@ header {
 header > h1{
     color: rgb(255, 255, 255);
     font-family: var(--font-destaque);
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     font-size: 3em;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.568);
     font-weight: normal;
